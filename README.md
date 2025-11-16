@@ -5,7 +5,8 @@ The research project focuses on predicting the length of hospital stays (LOS) fo
 Here we use the public dataset made available at https://health.data.ny.gov/Health/Hospital-Inpatient-Discharges-SPARCS-De-Identified/tg3i-cinn by the Dept of Health of New York state.
 let's look at the some of the definitions of each of the column.
 
-**Dataset Discription** :https://health.data.ny.gov/Health/Hospital-Inpatient-Discharges-SPARCS-De-Identified/tg3i-cinn
+**Dataset Description** 
+:https://health.data.ny.gov/Health/Hospital-Inpatient-Discharges-SPARCS-De-Identified/tg3i-cinn
 
 Operating Certificate Number - assigned by NYS Department of Health to the hospital which must meet all safety, staffing, and operational requirements.
 
