@@ -1,5 +1,5 @@
 # Patient-Length-of-Stay-Prediction-using-ML
-**Objective**
+**Objective:**
 The research project focuses on predicting the length of hospital stays (LOS) for patients, aiming to optimize treatment plans and resource allocation. By developing a model surpassing industry standards like median and average LOS, the project seeks to enhance patient care, control costs, and increase efficiency in healthcare services. Accurate LOS prediction is crucial for healthcare management, influencing resource allocation, patient care planning, and cost-effectiveness. The goal is to create a reliable predictive model for hospital LOS, beneficial for widespread adoption across healthcare institutions.
 
 Here we use the public dataset made available at https://health.data.ny.gov/Health/Hospital-Inpatient-Discharges-SPARCS-De-Identified/tg3i-cinn by the Dept of Health of New York state.
