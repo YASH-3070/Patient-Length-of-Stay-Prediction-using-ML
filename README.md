@@ -8,26 +8,26 @@ let's look at the some of the definitions of each of the column.
 **Dataset Description** 
 :https://health.data.ny.gov/Health/Hospital-Inpatient-Discharges-SPARCS-De-Identified/tg3i-cinn
 
-Operating Certificate Number - assigned by NYS Department of Health to the hospital which must meet all safety, staffing, and operational requirements.
+**Operating Certificate Number:** - assigned by NYS Department of Health to the hospital which must meet all safety, staffing, and operational requirements.
 
-Permanent Facility Id - a unique number assigned to each hospital or clinic by the Department.
+**Permanent Facility Id:** a unique number assigned to each hospital or clinic by the Department.
 
-Facility Name is the hospital name.
+**Facility Name:** is the hospital name.
 
-Patient Disposition is discharging back to their home, transferring to another hospital or skilled nursing facility, or being admitted to the hospital.
+**Patient Disposition:** is discharging back to their home, transferring to another hospital or skilled nursing facility, or being admitted to the hospital.
 
 Race refers to the concept of dividing people into groups on the basis of various sets of physical characteristics and the process of ascribing social meaning to those groups. Ethnicity describes the culture of people in a given geographic region, including their language, heritage, religion and customs.
 
-CCSR Diagnosis Code: The CCSR aggregates International Classification of Diseases, 10th Revision, Clinical Modification/Procedure Coding System (ICD-10-CM/PCS) codes into clinically meaningful categories.
+**CCSR Diagnosis Code:** The CCSR aggregates International Classification of Diseases, 10th Revision, Clinical Modification/Procedure Coding System (ICD-10-CM/PCS) codes into clinically meaningful categories.
 
 All Patients Refined Diagnosis Related Groups (APR DRG) is a classification system that classifies patients according to their reason of admission, severity of illness and risk of mortality.
 
-The Major Diagnostic Categories (MDC) are formed by dividing all possible principal diagnoses (from ICD-9) into 25 mutually exclusive diagnosis areas.
+The **Major Diagnostic Categories (MDC)** are formed by dividing all possible principal diagnoses (from ICD-9) into 25 mutually exclusive diagnosis areas.
 
-The severity of illness and risk of mortality subclasses have levels of 1 to 4, indicating minor, moderate, major, and extreme, respectively.
+**The severity of illness** and **risk of mortality** subclasses have levels of 1 to 4, indicating minor, moderate, major, and extreme, respectively.
 
-APR Medical Surgical Description classification of Medical, Surgical or Not Applicable.
+**APR Medical Surgical Description:** classification of Medical, Surgical or Not Applicable.
 
-Total charges for the discharge. billed to the patients.
+**Total charges for the discharge:** billed to the patients.
 
-Total estimated cost for the discharge. cost incurred to the hospital in service.
+**Total estimated cost for the discharge:** cost incurred to the hospital in service.
